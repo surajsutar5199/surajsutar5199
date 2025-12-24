@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Anil Sutar</h1>
-<h3 align="center">data scientist</h3>
+<h3 align="center">data scientist and gen ai</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajsutar5199&label=Profile%20views&color=0e75b6&style=flat" alt="surajsutar5199" /> </p>
 
