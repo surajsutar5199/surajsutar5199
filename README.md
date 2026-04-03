@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/surajsutar88485" target="blank"><img src="https://img.shields.io/twitter/follow/surajsutar88485?logo=twitter&style=for-the-badge" alt="surajsutar88485" /></a> </p>
 
-- 🌱 I’m currently learning **Data science and machine learning**
+- 🌱 I’m currently learning **Data science and gen ai engineer**
 
 - 📫 How to reach me **surajsutar5199@gmail.com**
 
